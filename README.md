@@ -10,7 +10,7 @@
 
 ## Host in your local machine
 
-Entre no diretório do projeto
+Go inside the project directory
 
 ```zsh
   cd spamikaze-back
