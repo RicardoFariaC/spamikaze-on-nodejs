@@ -4,7 +4,7 @@
 
 #### Return all IPs registered
 
-```http
+```zsh
   GET /ip/
 ```
 
