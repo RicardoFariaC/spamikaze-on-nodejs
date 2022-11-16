@@ -5,7 +5,7 @@
 #### Return all IPs registered
 
 ```http
-  GET /ip
+  GET ip
 ```
 
 ## Host in your local machine
